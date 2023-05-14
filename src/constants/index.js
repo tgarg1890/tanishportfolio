@@ -22,6 +22,7 @@ import {
     carrent,
     jobit,
     tripguide,
+    LiquidDistortion,
     threejs,
   } from "../assets";
   
@@ -215,7 +216,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: LiquidDistortion,
       source_code_link: "https://github.com/tgarg1890/LiquidDistortionSlider",
     },
     
