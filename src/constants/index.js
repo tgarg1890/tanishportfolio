@@ -216,7 +216,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: LiquidDistortion,
+      image: "https://drive.google.com/file/d/16lesYbJFaUj7t_J1djiSVB3koaRhTMNw/view?usp=share_link",
       source_code_link: "https://github.com/tgarg1890/LiquidDistortionSlider",
     },
     
